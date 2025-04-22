@@ -100,4 +100,4 @@ async def on_member_join(member):
     await channel.send(embed=embed)
 
 # Run your bot
-bot.run("MTE1ODQ0MTg0MTM0NDEzMTE1Mw.GJFT4s.aGgpaFyEYaatj4JLRTy9ehBB9AFBUjx725BYF4")
+bot.run("MTE1ODQ0MTg0MTM0NDEzMTE1Mw.GOyn-L.Pex6OZRVLbMBtS03OmVu87DPu5lNNO7ChJnxIE")
